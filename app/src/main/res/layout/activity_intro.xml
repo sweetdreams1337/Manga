@@ -97,7 +97,6 @@
                     style="@android:style/Widget.Button"
                     android:textColor="@color/white"
                     android:textSize="18sp"
-                    layout android:gravity="center"
                     android:layout_margin="32dp"
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintEnd_toEndOf="parent"
